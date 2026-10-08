@@ -56,6 +56,16 @@ I enjoy turning complex requirements into straightforward user experiences, well
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=waseem106&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+> These are community-generated trophies based on public GitHub activity, **not** GitHub's official Achievements. Official achievements, when earned and enabled, appear automatically on your GitHub profile.
+
 ## 🚀 Selected Projects
 
 | Project | Focus | Repository |
