@@ -77,6 +77,15 @@ I enjoy turning complex requirements into straightforward user experiences, well
 
 > These repositories reflect personal development and portfolio work. See their README files for setup details and current project status.
 
+### Explore the projects
+
+- **Looking for a live example?** Start with the [deployed portfolio](https://waseem106.github.io/Portfolio/) and review its [source and setup guide](https://github.com/waseem106/Portfolio#readme).
+- **Interested in full-stack Next.js?** Explore [FoodApp documentation](https://github.com/waseem106/FoodApp#readme) and [PerplexityAi documentation](https://github.com/waseem106/PerplexityAi#readme).
+- **Interested in React UI development?** See [AvoSite documentation](https://github.com/waseem106/AvoSite#readme).
+
+Project README files distinguish verified setup details from work that still needs documentation, so visitors can quickly evaluate each repository.
+
+
 ## 💡 What I'm Interested In
 
 - Building full-stack products with strong foundations
