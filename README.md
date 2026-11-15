@@ -6,7 +6,7 @@
 
 Building thoughtful web experiences, reliable backend systems, and practical AI-powered applications.
 
-📍 Gujranwala, Pakistan &nbsp; • &nbsp; 💻 Open to meaningful engineering collaborations
+📍 Pakistan &nbsp; • &nbsp; 💻 Open to meaningful engineering collaborations
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://waseem106.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseemaziz106@gmail.com)
